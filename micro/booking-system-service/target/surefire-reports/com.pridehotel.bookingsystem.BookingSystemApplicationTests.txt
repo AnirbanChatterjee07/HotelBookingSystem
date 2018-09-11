@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pridehotel.bookingsystem.BookingSystemApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 9.275 s - in com.pridehotel.bookingsystem.BookingSystemApplicationTests
